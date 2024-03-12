@@ -1,2 +1,2 @@
 # Hello-World
-This is Hello Word progam written in C Language.
+This is Hello World progam written in C Language.
